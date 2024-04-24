@@ -1,0 +1,24 @@
+.section {
+  background-color: rgb(190, 190, 190);
+}
+.table {
+  margin: 0 auto;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: white;
+}
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+  padding: 5px;
+  background-color: aquamarine;
+  color: white;
+}
+
+.data {
+  padding: 5px;
+  text-align: center;
+  color: rgb(190, 190, 190);
+}
