@@ -4,7 +4,8 @@ import Counter from "../Exercases/Exercases";
 function App2() {
   return (
     <>
-      <Counter />
+      <Counter initialValue={10} />
+      {/* <Counter /> не передавая initalValue работает со статика */}
     </>
   );
 }
